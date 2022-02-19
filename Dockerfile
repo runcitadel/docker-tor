@@ -1,4 +1,4 @@
-ARG VERSION=0.4.6.8
+ARG VERSION=0.4.7.3-alpha
 
 ARG USER=toruser
 ARG UID=1000
